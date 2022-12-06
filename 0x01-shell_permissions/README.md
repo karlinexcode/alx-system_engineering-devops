@@ -23,7 +23,7 @@ All of the following files are scripts:
 | `9-John_Doe` | Sets the `-rwxr-x-wx` permissions to the file `hello` |
 | `10-mirror_permissions` | Sets the mode of the file `hello` the same as `olleh`'s mode |
 | `11-directories_permissions` | Adds execute permission to all subdirectories of the current directory for the owner, the group of the owner and all the other users |
-| `12-directory_permissions` | Creates a directory called `dir_holberton` with permissions 751 in the working directory |
+| `12-directory_permissions` | Creates a directory called `my_dir` with permissions 751 in the working directory |
 | `13-change_group` | Changes the group owner to `school` for the file `hello` |
 | `100-change_owner_and_group` | Changes the owner to `vincent` and the group owner to `staff` for all the files and directories in the working directory |
 | `101-symbolic_link_permissions` | Changes the owner and the group owner of the file `_hello` to `vincent` and `staff` respectively |
